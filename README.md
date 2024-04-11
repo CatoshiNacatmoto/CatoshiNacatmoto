@@ -2,7 +2,7 @@
 
 Hey there! I'm CatoshiNacatmoto, a passionate student in web development with a keen interest in becoming a front-end developer. I thrive on crafting engaging and interactive web experiences using HTML, CSS, and JavaScript.
 
-
+# Front End Tools 🛠️
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="50">
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML Logo" width="50">
@@ -25,6 +25,5 @@ I'm currently focused on building responsive and visually appealing websites and
 As a lifelong learner, I'm constantly expanding my knowledge and staying updated with the latest trends in web development. Currently, I'm delving deeper into modern JavaScript frameworks like React to enhance my skill set.
 
 # 📫 Get in Touch
-- GitHub: @CatoshiNacatmoto(https://github.com/CatoshiNacatmoto)
+- GitHub: [@CatoshiNacatmoto](https://github.com/CatoshiNacatmoto)
 - Email: CatoshiNacatmoto@outlook.com
-
