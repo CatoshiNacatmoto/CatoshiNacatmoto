@@ -2,8 +2,7 @@
 
 Hey there! I'm CatoshiNacatmoto, a passionate student in web development with a keen interest in becoming a front-end developer. I thrive on crafting engaging and interactive web experiences using HTML, CSS, and JavaScript.
 
-
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg){width=100px}
+<img src="(https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="100">
 
 # 🎓 Academic Pursuits
 Currently pursuing my studies in web development, I'm dedicated to mastering the art of front-end development. Through coursework and personal projects, I'm constantly refining my skills and exploring new techniques to create intuitive user interfaces.
