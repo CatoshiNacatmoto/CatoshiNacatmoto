@@ -5,8 +5,8 @@ Hey there! I'm CatoshiNacatmoto, a passionate student in web development with a 
 
 <span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Logo" width="50">
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML Logo" width="50">
+<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="CSS Logo" width="50">
 </span>
 
 
