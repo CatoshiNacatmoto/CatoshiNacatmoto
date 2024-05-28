@@ -1,6 +1,6 @@
 # À propos de moi 👋
 
-Bonjour ! Je suis CatoshiNacatmoto, un étudiant passionné par le développement web, avec un intérêt particulier pour le développement front-end. J'aime créer des expériences web engageantes et interactives en utilisant HTML, CSS et JavaScript.
+Bonjour ! Je suis un étudiant passionné par le développement web, avec un intérêt particulier pour le développement front-end. J'aime créer des expériences web engageantes et interactives en utilisant HTML, CSS et JavaScript.
 
 # **Outils Front End 🛠️**
 <span>
